@@ -1,0 +1,16 @@
+.menu li > *:not(ul, .menu-title, details, .btn):active, 
+.menu li > *:not(ul, .menu-title, details, .btn).active, 
+.menu li > details > summary:active {
+    background-color: transparent;
+    color: #212337;
+}
+
+.menu li > *:not(ul, .menu-title, details, .btn):active, 
+.menu li > *:not(ul, .menu-title, details, .btn).active, 
+.menu li > details > summary:active {
+    background-color: transparent;
+}
+
+.border{
+    color: black;
+}
